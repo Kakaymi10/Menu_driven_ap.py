@@ -144,7 +144,7 @@ def Age():
     t.sleep(1)
     print("                                   //****************************************\\\\ ")
     t.sleep(1)
-    print("                       |||||--->>  Fun fact: you were born in one " +(calendar.day_name[calendar.weekday(yyyy,mm,dd)]).upper() +" And you are " + str(s) + " years old")
+    print("                       |||||--->>  You were born in one " +(calendar.day_name[calendar.weekday(yyyy,mm,dd)]).upper() +" And you are " + str(s) + " years old")
     t.sleep(1)
     print("                                  //******************************************\\\\")
     print("\n \n")
